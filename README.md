@@ -6,7 +6,7 @@ Este proyecto aplica técnicas de análisis exploratorio de datos y modelos de m
 
 ---
 
-## 🎯 Objetivos
+## Objetivos
 
 - Analizar la evolución histórica de la tasa de idoneidad por edad y sexo.
 - Detectar diferencias sistemáticas y puntos críticos.
@@ -16,7 +16,7 @@ Este proyecto aplica técnicas de análisis exploratorio de datos y modelos de m
 
 ---
 
-## 🧪 Tecnologías utilizadas
+## Tecnologías utilizadas
 
 - Python 3
 - Pandas, Numpy
@@ -27,7 +27,7 @@ Este proyecto aplica técnicas de análisis exploratorio de datos y modelos de m
 
 ---
 
-## 📁 Estructura del proyecto
+## Estructura del proyecto
 
 | Archivo | Descripción |
 |--------|-------------|
@@ -39,7 +39,7 @@ Este proyecto aplica técnicas de análisis exploratorio de datos y modelos de m
 
 ---
 
-## 📈 Resultados
+## Resultados
 
 El modelo **XGBoost** logró un rendimiento sobresaliente:
 
@@ -50,7 +50,7 @@ Esto indica que el modelo predice con gran precisión la tasa de idoneidad a par
 
 ---
 
-### 🎨 Visualización destacada
+### Visualización destacada
 
 ![Predicción 2026](img/grafico_barras_2026.png)
 
@@ -58,7 +58,7 @@ Esto indica que el modelo predice con gran precisión la tasa de idoneidad a par
 
 ---
 
-## 🔍 Conclusiones clave
+## Conclusiones clave
 
 - A mayor edad, menor tasa de idoneidad → **14 y 15 años son edades críticas.**
 - Diferencias por sexo son persistentes: las **niñas mantienen mejores tasas.**
@@ -66,7 +66,7 @@ Esto indica que el modelo predice con gran precisión la tasa de idoneidad a par
 
 ---
 
-## 📂 Cómo usar
+## Cómo usar
 
 1. Clona este repositorio:
 ```bash
