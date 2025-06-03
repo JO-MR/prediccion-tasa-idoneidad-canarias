@@ -16,7 +16,7 @@ Este proyecto aplica técnicas de análisis exploratorio de datos y modelos de m
 
 ---
 
-## Tecnologías utilizadas
+# Tecnologías utilizadas
 
 - Python 3
 - Pandas, NumPy
@@ -35,6 +35,7 @@ Este proyecto aplica técnicas de análisis exploratorio de datos y modelos de m
 | `predicciones_tasa_idoneidad_2026_2030.csv` | Predicciones por edad y sexo entre 2026–2030 |
 | `requirements.txt` | Librerías necesarias para reproducir el análisis |
 | `img/grafico_barras_2026.png` | Visualización destacada por edad y sexo |
+| `grafico_lineas_2026_2030.png` | Evolución de predicción por edad y sexo (línea) |
 | `modelo_xgboost.pkl` *(opcional)* | Modelo XGBoost entrenado para reutilización |
 
 ---
@@ -72,5 +73,6 @@ Esto indica que el modelo predice con gran precisión la tasa de idoneidad a par
 ```bash
 git clone https://github.com/tu_usuario/educational-fit-prediction.git
 
-> jonasdemartin@gmail.com
-
+**AUTOR**
+Jonás De Martín Rodríguez
+Mail: jonasdemartin@gmail.com
