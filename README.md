@@ -76,6 +76,6 @@ git clone https://github.com/tu_usuario/educational-fit-prediction.git
 ```bash
 pip install -r requirements.txt
 
-`Autor`
+## `Autor`
 Jonás De Martín Rodríguez
 jonasdemartin@gmail.com
